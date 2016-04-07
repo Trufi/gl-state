@@ -1,0 +1,11 @@
+{
+  "name": "gl-state",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "2gl": "0.0.29"
+  }
+}
